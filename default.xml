@@ -7,10 +7,16 @@
   <!--wambobomb-->
   <project path="device/htc/qsd8k-common" name="android_device_htc_qsd8k-common" remote="github" revision="jellybean" />
   <project path="device/htc/supersonic" name="android_device_htc_supersonic" remote="github" revision="jellybean" />
-  <project path="vendor/htc" name="android_vendor_htc" remote="github" revision="jellybean" />
+  <project path="frameworks/base" name="android_frameworks_base" remote="github" revision="cm-10.1" />
+  <project path="frameworks/native" name="android_frameworks_native" remote="github" revision="cm-10.1" />
+  <project path="hardware/libhardware" name="android_hardware_libhardware" remote="github" revision="jellybean" />
+  <project path="hardware/libhardware-legacy" name="android_hardware_libhardware-legacy" remote="github" revision="jellybean" />
+  <project path="hardware/ril" name="android_hardware_ril" remote="github" revision="jellybean" />
+  <project path="hardware/qcom/audio-legacy" name="android_hardware_qcom_audio-legacy" remote="github" revision="jellybean"/>
+  <project path="hardware/qcom/display-legacy" name="android_hardware_qcom_display-legacy" remote="github" revision="jellybean" />
+  <project path="hardware/qcom/gps" name="android_hardware_qcom_gps-legacy" remote="github" revision="jellybean"/>
+  <project path="hardware/qcom/media-legacy" name="android_hardware_qcom_media-legacy" remote="github" revision="jellybean" />
   <project path="kernel/htc/qsd8k" name="android_kernel_htc_supersonic" remote="github" revision="jellybean" />
-  <project path="android/hardware/qcom/display-legacy" name="android_hardware_qcom_display-legacy" remote="github" revision="jellybean" />
-  <project path="android/hardware/libhardware" name="android_hardware_libhardware" remote="github" revision="jellybean" />
   <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.4.3" name="gcc_4.4.3" remote="github" revision="jellybean" />
-  <project path="android/hardware/qcom/media-legacy" name="android_hardware_qcom_media-legacy" remote="github" revision="jellybean" />
+  <project path="vendor/htc" name="android_vendor_htc" remote="github" revision="jellybean" />
 </manifest>
