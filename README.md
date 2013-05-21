@@ -1,4 +1,2 @@
-android-legacy
-==============
-
-4.1.2 evervolv_supersonic source manifest.
+Android JellyBean 4.2.2 Supersonic Manifest
+===========================================
