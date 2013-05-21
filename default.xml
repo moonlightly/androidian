@@ -16,7 +16,6 @@
   <project path="hardware/qcom/display-legacy" name="android_hardware_qcom_display-legacy" remote="github" revision="jellybean" />
   <project path="hardware/qcom/gps" name="android_hardware_qcom_gps-legacy" remote="github" revision="jellybean"/>
   <project path="hardware/qcom/media-legacy" name="android_hardware_qcom_media-legacy" remote="github" revision="jellybean" />
-  <project path="kernel/htc/qsd8k" name="android_kernel_htc_supersonic" remote="github" revision="jellybean" />
   <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.4.3" name="gcc_4.4.3" remote="github" revision="jellybean" />
   <project path="vendor/htc" name="android_vendor_htc" remote="github" revision="jellybean" />
 </manifest>
