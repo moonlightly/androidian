@@ -18,5 +18,5 @@
   <project path="hardware/qcom/media-legacy" name="hardware_qcom_media-legacy" remote="github" revision="master" />
   <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.4.3" name="gcc_4.4.3" remote="github" revision="jellybean" />
   <project path="vendor/htc" name="vendor_htc" remote="github" revision="master" />
-  <project path="vendor/cm" name="vendor_cm" remote="github" revision="cm-10.1" />
+  <project path="vendor/cm" name="android_vendor_cm" remote="github" revision="cm-10.1" />
 </manifest>
