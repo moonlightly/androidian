@@ -7,7 +7,6 @@
   <!--wambobomb-->
   <project path="device/htc/qsd8k-common" name="device_htc_qsd8k-common" remote="github" revision="master" />
   <project path="device/htc/supersonic" name="device_htc_supersonic" remote="github" revision="master" />
-  <project path="frameworks/base" name="android_frameworks_base" remote="github" revision="cm-10.1" />
   <project path="frameworks/native" name="android_frameworks_native" remote="github" revision="cm-10.1" />
   <project path="hardware/libhardware" name="hardware_libhardware" remote="github" revision="master" />
   <project path="hardware/libhardware_legacy" name="hardware_libhardware_legacy" remote="github" revision="master" />
